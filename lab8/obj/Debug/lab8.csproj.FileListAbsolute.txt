@@ -8,3 +8,13 @@ C:\Users\Вика\source\repos\MathModels\lab8\lab8\obj\Debug\lab8.csproj.Genera
 C:\Users\Вика\source\repos\MathModels\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
 C:\Users\Вика\source\repos\MathModels\lab8\lab8\obj\Debug\lab8.exe
 C:\Users\Вика\source\repos\MathModels\lab8\lab8\obj\Debug\lab8.pdb
+C:\Users\Вика\Documents\GitHub\mathMethodsLab8\lab8\bin\Debug\lab8.exe.config
+C:\Users\Вика\Documents\GitHub\mathMethodsLab8\lab8\bin\Debug\lab8.exe
+C:\Users\Вика\Documents\GitHub\mathMethodsLab8\lab8\bin\Debug\lab8.pdb
+C:\Users\Вика\Documents\GitHub\mathMethodsLab8\lab8\obj\Debug\lab8.csproj.AssemblyReference.cache
+C:\Users\Вика\Documents\GitHub\mathMethodsLab8\lab8\obj\Debug\lab8.Form1.resources
+C:\Users\Вика\Documents\GitHub\mathMethodsLab8\lab8\obj\Debug\lab8.Properties.Resources.resources
+C:\Users\Вика\Documents\GitHub\mathMethodsLab8\lab8\obj\Debug\lab8.csproj.GenerateResource.cache
+C:\Users\Вика\Documents\GitHub\mathMethodsLab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+C:\Users\Вика\Documents\GitHub\mathMethodsLab8\lab8\obj\Debug\lab8.exe
+C:\Users\Вика\Documents\GitHub\mathMethodsLab8\lab8\obj\Debug\lab8.pdb

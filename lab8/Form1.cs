@@ -55,6 +55,7 @@ namespace lab8
                 errorProviderEvents.SetError(this.numericUpDown5, String.Empty);
                 arrayProb[4] = 1 - four;
                 numericUpDown5.Value = (decimal)(1 - four);
+                //todo алгоритм поиска того, какое событие случилось
             }
         }
     }
