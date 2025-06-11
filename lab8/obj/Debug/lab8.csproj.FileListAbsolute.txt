@@ -18,3 +18,14 @@ C:\Users\Вика\Documents\GitHub\mathMethodsLab8\lab8\obj\Debug\lab8.csproj.Ge
 C:\Users\Вика\Documents\GitHub\mathMethodsLab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
 C:\Users\Вика\Documents\GitHub\mathMethodsLab8\lab8\obj\Debug\lab8.exe
 C:\Users\Вика\Documents\GitHub\mathMethodsLab8\lab8\obj\Debug\lab8.pdb
+X:\prog\vika\mathMethodsLab8\lab8\bin\Debug\lab8.exe.config
+X:\prog\vika\mathMethodsLab8\lab8\bin\Debug\lab8.exe
+X:\prog\vika\mathMethodsLab8\lab8\bin\Debug\lab8.pdb
+X:\prog\vika\mathMethodsLab8\lab8\obj\Debug\lab8.csproj.AssemblyReference.cache
+X:\prog\vika\mathMethodsLab8\lab8\obj\Debug\lab8.csproj.SuggestedBindingRedirects.cache
+X:\prog\vika\mathMethodsLab8\lab8\obj\Debug\lab8.Form1.resources
+X:\prog\vika\mathMethodsLab8\lab8\obj\Debug\lab8.Properties.Resources.resources
+X:\prog\vika\mathMethodsLab8\lab8\obj\Debug\lab8.csproj.GenerateResource.cache
+X:\prog\vika\mathMethodsLab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+X:\prog\vika\mathMethodsLab8\lab8\obj\Debug\lab8.exe
+X:\prog\vika\mathMethodsLab8\lab8\obj\Debug\lab8.pdb

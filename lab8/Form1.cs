@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Windows.Forms.DataVisualization.Charting;
 
 namespace lab8
 {
@@ -55,7 +56,32 @@ namespace lab8
                 errorProviderEvents.SetError(this.numericUpDown5, String.Empty);
                 arrayProb[4] = 1 - four;
                 numericUpDown5.Value = (decimal)(1 - four);
-                //todo алгоритм поиска того, какое событие случилось
+                if (rnd == null) rnd = new Random();
+                int numOfTrials = (int)numericUpDownTrials.Value;
+                int[] arrayTrials = new int[5];
+                for(int i = 0; i < numOfTrials; i++)
+                {
+                    double A = rnd.NextDouble();
+                    int k = -1;
+                    while(A > 0)
+                    {
+                        A -= arrayProb[++k];
+                    }
+                    arrayTrials[k]++;
+                }
+                Series series = new Series("Probabilities")
+                {
+                    ChartType = SeriesChartType.Column,
+                    IsValueShownAsLabel = true
+                };
+                decimal d = 0;
+                for (int i = 0; i < 5; i++)
+                {
+                    d = (decimal)arrayTrials[i] / numOfTrials;
+                    series.Points.AddXY(i, Decimal.Truncate(d * 1000) / 1000);
+                }
+                chart1.Series.Clear();
+                chart1.Series.Add(series);
             }
         }
     }
